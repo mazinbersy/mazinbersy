@@ -11,13 +11,6 @@ Welcome to my GitHub profile!
 
 Did you know that I'm an avid puzzle solver? Whether it's jigsaw puzzles, crosswords, or brain teasers, I love challenging my mind with puzzles of all kinds!
 
-## Hobbies 🎨
-
-In my free time, I enjoy:
-- **Reading**: Whether it's diving into a gripping novel or exploring thought-provoking non-fiction, I'm always eager to expand my horizons through books.
-- **Football**: As a sports enthusiast, I love getting out on the field and kicking the ball around with friends. Watching matches and keeping up with the latest football news is also a big part of my routine.
-- **Basketball**: Shooting hoops and playing pickup games at the local court is another favorite pastime of mine. There's nothing quite like the thrill of competition and the camaraderie of team sports!
-
 ## Current Focus 🎯
 ### Data Structures and Algorithms:
 - Actively practicing and mastering data structures and algorithms.
@@ -29,6 +22,17 @@ In my free time, I enjoy:
 
 ### LeetCode: 
 - Engaging with platforms like LeetCode not only enhances my technical skills but also prepares me for real-world challenges and technical interviews. Let's keep the learning journey going!
+
+## Seeking Internship Opportunities 🌟
+
+I'm currently on the lookout for internship opportunities where I can apply and expand my skills in software development. If you know of any exciting opportunities, please don't hesitate to reach out!
+
+## Connect with Me 🌐
+
+Feel free to connect with me on:
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/60px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mazin-bersy-058896251/)
+
 
 <h2 align="left">Skills 🛠️</h2>
 
