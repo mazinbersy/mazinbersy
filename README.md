@@ -33,10 +33,6 @@ Right now, I'm dedicated to:
 ### LeetCode: 
 Engaging with platforms like LeetCode not only enhances my technical skills but also prepares me for real-world challenges and technical interviews. Let's keep the learning journey going!
 
-# 💫 About Me:
-Hey there, I'm Mazin Bersy! 👋<br><br>Welcome to my GitHub profile!<br><br>About Me ℹ️<br><br>- 🎓 Studying Computer Engineering at American University in Cairo<br>- 📧 Email: mazinbersy@aucegypt.edu<br><br>Fun Fact 🎉<br><br>Did you know that I'm an avid puzzle solver? Whether it's jigsaw puzzles, crosswords, or brain teasers, I love challenging my mind with puzzles of all kinds!<br><br>Current Focus 🎯<br><br>Right now, I'm dedicated to:<br><br>Data Structures and Algorithms:<br>- Actively practicing and mastering data structures and algorithms.<br>- Solving a variety of problems to solidify my understanding and improve my problem-solving skills.<br><br>Algorithm Optimization:<br>- Passionate about finding efficient solutions to problems.<br>- Constantly striving to optimize my algorithms for better performance.<br><br>LeetCode: <br>Engaging with platforms like LeetCode not only enhances my technical skills but also prepares me for real-world challenges and technical interviews. Let's keep the learning journey going!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazinbersy) 
 
