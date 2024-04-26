@@ -19,9 +19,6 @@ In my free time, I enjoy:
 - **Basketball**: Shooting hoops and playing pickup games at the local court is another favorite pastime of mine. There's nothing quite like the thrill of competition and the camaraderie of team sports!
 
 ## Current Focus 🎯
-
-Right now, I'm dedicated to:
-
 ### Data Structures and Algorithms:
 - Actively practicing and mastering data structures and algorithms.
 - Solving a variety of problems to solidify my understanding and improve my problem-solving skills.
